@@ -9,6 +9,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-turbo-colab/blob/main/sdxl_turbo_colab.ipynb) | sdxl_turbo_colab (High-RAM 😐)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-turbo-colab/blob/main/sdxl_turbo_diffusers_colab.ipynb) | sdxl_turbo_diffusers_colab
 
 ## 🦆 Kaggle
 
