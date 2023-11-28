@@ -8,7 +8,14 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-turbo-colab/blob/main/sdxl_turbo_colab.ipynb) | sdxl_turbo_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sdxl-turbo-colab/blob/main/sdxl_turbo_colab.ipynb) | sdxl_turbo_colab (High-RAM 😐)
+
+## 🦆 Kaggle
+
+| Kaggle | Info
+| --- | --- |
+[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/sdxl-turbo) | sdxl_turbo_kaggle (Free T4)
+
 
 ## Main Repo
 https://github.com/Stability-AI/generative-models
