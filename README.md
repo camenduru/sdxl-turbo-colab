@@ -22,3 +22,4 @@ https://stability.ai/research/adversarial-diffusion-distillation
 
 ## Output
 
+![Screenshot 2023-11-29 030726](https://github.com/camenduru/sdxl-turbo-colab/assets/54370274/3dba4903-3b0a-4ffd-9dca-bc5e8301271e)
