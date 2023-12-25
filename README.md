@@ -15,7 +15,8 @@
 https://github.com/Stability-AI/generative-models
 
 ## Paper
-https://static1.squarespace.com/static/6213c340453c3f502425776e/t/65663480a92fba51d0e1023f/1701197769659/adversarial_diffusion_distillation.pdf
+https://arxiv.org/abs/2311.17042 <br />
+https://static1.squarespace.com/static/6213c340453c3f502425776e/t/65663480a92fba51d0e1023f/1701197769659/adversarial_diffusion_distillation.pdf <br />
 
 ## Page
 https://stability.ai/research/adversarial-diffusion-distillation
